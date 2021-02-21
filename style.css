@@ -1,0 +1,37 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-orange{
+    background-color: orange;
+}
+.bg-orchid{
+    background-color: orchid;
+}
+.bg-blue{
+    background-color: blue;
+}
+.bg-fceae8{
+    background-color: #fceae8;
+}
+.height-250{
+    height: 250px;
+}
+.categories img{
+    width: 100px;
+}
+.slider img{
+    width: 300px;
+}
+.slider{
+    padding: 30px;
+}
+.text-ff136f{
+    color: #FF136F;
+}
+nav  ul li:hover{
+    border-bottom: 2px solid rgba(255, 19, 111, .5);
+}
+nav ul li a{
+    color: rgba(255, 19, 111, .8) !important;
+    font-weight: bold;
+}
